@@ -164,6 +164,8 @@
     line-height: 35px;
 }
 
+
+
 .hotdeal{
     border-radius: 8px;
     background-color: rgba(229, 84, 115, 0.05);
@@ -203,9 +205,39 @@
     text-align: center;
 }
 
+.instasec{
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+.insfea-h{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+}
+.insfea-p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 594px;
+    margin: 24px auto 48px;
+}
+
+.insta-container{
+    margin: 0px 240px;
+    display: flex;
+    justify-content: space-between;
+}
 
 .sec-mail{
-    background-image: url('../assets/Rectangle-9.png');
+    background-image: url('../assets/bgimg.png');
     margin: 130px 240px 0 ;
     height: 449px;
     text-align: center;
