@@ -237,14 +237,18 @@
 }
 
 .sec-mail{
-    background-image: url('../assets/bgimg.png');
-    margin: 130px 240px 0 ;
+    background-image: url('./assets/bgimg.png');
+    background-position: center;
+    margin: 128px 240px  ;
     height: 449px;
     text-align: center;
     background-repeat: no-repeat;
-    padding: 120px 0 0 0;
 }
 
+.formcont{
+
+    padding-top: 120px;
+}
 .formcont>h1{
     color: #272727;
     text-align: center;
